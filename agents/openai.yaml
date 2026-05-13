@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI-Era Course Architect"
+  short_description: "Design systematic courses for AI-era learning"
+  brand_color: "#2563EB"
+  default_prompt: "Use $ai-era-course-architect to design a systematic course for this topic, then wait for my confirmation before writing the full course."
